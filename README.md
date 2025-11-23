@@ -7,11 +7,42 @@ Love blending code + creativity to produce meaningful, scalable products.
 
 🛠️ Tech Stack
 Languages
+## 🐍 Advanced Python
 
-Advance python
-dsa in Python
-dsa in c
-cpp
+![Python](https://img.shields.io/badge/Advanced%20Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FFBF00?style=for-the-badge&logo=python&logoColor=white)
+![Modules](https://img.shields.io/badge/Modules%20%26%20Libraries-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![File Handling](https://img.shields.io/badge/File%20Handling-306998?style=for-the-badge&logo=python&logoColor=white)
+![Error Handling](https://img.shields.io/badge/Error%20Handling-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-646464?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🧠 DSA in Python
+
+![Python DSA](https://img.shields.io/badge/DSA%20in%20Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-306998?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode Python](https://img.shields.io/badge/LeetCode%20Python-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
+
+## 📘 DSA in C
+
+![C](https://img.shields.io/badge/DSA%20in%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Pointers](https://img.shields.io/badge/Pointers-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Memory](https://img.shields.io/badge/Memory%20Management-004880?style=for-the-badge&logo=c&logoColor=white)
+![C Algorithms](https://img.shields.io/badge/Algorithms-0082C9?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 💻 DSA in C++
+
+![C++](https://img.shields.io/badge/DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STL](https://img.shields.io/badge/C++%20STL-4B8BBE?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOP C++](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)
+
 
 ## 🧠 Machine Learning Tools
 
