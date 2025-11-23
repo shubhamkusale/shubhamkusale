@@ -48,16 +48,7 @@ I love blending **code + creativity** to craft scalable, meaningful products.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-kusale&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-kusale&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-kusale&theme=tokyonight" height="170"/>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight)
 
 # 🌐 Connect With Me
 
