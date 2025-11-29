@@ -51,11 +51,10 @@ I love blending **code + creativity** to craft meaningful projects.
 
 ## 📊 GitHub Stats
 
-<!-- Note: The stats service (github-readme-stats) is currently experiencing downtime (503 Error). These images will appear automatically when the service is back online. -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkusale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-mirrors.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
+  
+  <img src="https://github-readme-stats-git-master-mirrors.vercel.app/api/top-langs/?username=shubhamkusale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
