@@ -1,7 +1,7 @@
 # ✨ Hi there — I'm Shubham! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Shubham!;Aspiring+AI+Product+Engineer;Pythonist+%7C+Building+Automation+Tools;Creator+of+TermiVibe+%26+CleanSweep" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Shubham!;Python+Developer;Building+Creative+Tools;Aspiring+AI+Engineer" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 Aspiring **AI Product Engineer** passionate about:
-**Python • AI • Automation • Creative Tech • Cybersecurity**
+**Python • Automation • Creative Tech • Problem Solving**
 
-I love blending **code + creativity** to craft scalable, meaningful products.
+I love blending **code + creativity** to craft meaningful projects.
 
 ---
 
@@ -22,10 +22,10 @@ I love blending **code + creativity** to craft scalable, meaningful products.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Textual-TUI-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Watchdog-Automation-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cryptography-Security-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-8E44AD?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -33,23 +33,25 @@ I love blending **code + creativity** to craft scalable, meaningful products.
 ## 🌟 Featured Projects
 
 ### 🎵 [TermiVibe](https://github.com/shubhamkusale/TermiVibe)
-> *Command-line music visualizer*
-*   **Tech**: Python, Textual, NumPy, SoundDevice
-*   **Highlight**: Real-time FFT audio visualization in the terminal.
+> *Music Visualizer*
+*   **About**: A cool tool that visualizes music frequencies in real-time.
+*   **Built With**: Python
 
 ### 🧹 [Clean Sweep](https://github.com/shubhamkusale/CleanSweep)
-> *Intelligent Desktop Organizer*
-*   **Tech**: Python, Watchdog, Automation
-*   **Highlight**: Auto-sorts downloads instantly.
+> *Desktop Organizer*
+*   **About**: Automatically organizes my downloads folder to keep it clean.
+*   **Built With**: Python, Automation Scripts
 
 ### 🔒 **Digital Diary**
-> *Secure, Encrypted Journaling*
-*   **Tech**: Python, AES Encryption, Secure Hashing
-*   **Highlight**: Military-grade privacy for your thoughts.
+> *Secure Journal*
+*   **About**: A personal diary app that keeps my notes private and secure.
+*   **Built With**: Python, Encryption
 
 ---
 
 ## 📊 GitHub Stats
+
+<!-- Note: The stats service (github-readme-stats) is currently experiencing downtime (503 Error). These images will appear automatically when the service is back online. -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
