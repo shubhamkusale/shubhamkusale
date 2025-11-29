@@ -22,10 +22,11 @@ I love blending **code + creativity** to craft meaningful projects.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA_in_C-8E44AD?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -51,10 +52,11 @@ I love blending **code + creativity** to craft meaningful projects.
 
 ## 📊 GitHub Stats
 
+<!-- Note: The stats service (github-readme-stats) is currently experiencing downtime (503 Error). These images will appear automatically when the service is back online. -->
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-mirrors.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
-  
-  <img src="https://github-readme-stats-git-master-mirrors.vercel.app/api/top-langs/?username=shubhamkusale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkusale&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkusale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
