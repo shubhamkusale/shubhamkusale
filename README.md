@@ -1,4 +1,4 @@
-# ✨ Hi there — I'm Shubham! 👋
+#  Hi there — I'm Shubham!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Shubham!;Python+Developer;Building+Creative+Tools;Aspiring+AI+Engineer" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 Aspiring **AI Product Engineer** passionate about:
 **Python • Automation • Creative Tech • Problem Solving**
 
@@ -18,7 +18,7 @@ I love blending **code + creativity** to craft meaningful projects.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,26 +31,26 @@ I love blending **code + creativity** to craft meaningful projects.
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎵 [TermiVibe](https://github.com/shubhamkusale/TermiVibe)
+### [TermiVibe](https://github.com/shubhamkusale/TermiVibe)
 > *Music Visualizer*
 *   **About**: A cool tool that visualizes music frequencies in real-time.
 *   **Built With**: Python
 
-### 🧹 [Clean Sweep](https://github.com/shubhamkusale/CleanSweep)
+### [Clean Sweep](https://github.com/shubhamkusale/CleanSweep)
 > *Desktop Organizer*
 *   **About**: Automatically organizes my downloads folder to keep it clean.
 *   **Built With**: Python, Automation Scripts
 
-### 🔒 **Digital Diary**
+### **Digital Diary**
 > *Secure Journal*
 *   **About**: A personal diary app that keeps my notes private and secure.
 *   **Built With**: Python, Encryption
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- Note: The stats service (github-readme-stats) is currently experiencing downtime (503 Error). These images will appear automatically when the service is back online. -->
 
@@ -61,7 +61,7 @@ I love blending **code + creativity** to craft meaningful projects.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kusale-29a94825a/">
